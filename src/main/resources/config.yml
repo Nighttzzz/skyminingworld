@@ -1,0 +1,26 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                Configurações gerais                  | #
+# +------------------------------------------------------+ #
+############################################################
+#PlaceHolders
+#{jogador} == p.getName()
+#{Mundo} == Ele puxa a string do Mundo: ""
+Mundo: "mina"
+
+############################################################
+# +------------------------------------------------------+ #
+# |                   Mensagens gerais                   | #
+# +------------------------------------------------------+ #
+############################################################
+Mensagens:
+  Jogador-na-mina: "&cObs!, Hey {jogador} Você ja está no mundo de mineração."
+  Ao-entrar-na-mina:
+    - ''
+    - '&b&lESTE É O MUNDO DE MINERAÇÃO'
+    - ''
+    - '  &fOlá &b{jogador}&f bem vindo ao mundo de mineração'
+    - '  &fneste mundo é possível apénas coletar minérios'
+    - '  &fNão guarde seus itens nesse mundo'
+    - '  &fNão construa bases nesse mundo.'
+    - ''

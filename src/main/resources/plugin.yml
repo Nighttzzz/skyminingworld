@@ -1,0 +1,3 @@
+name: SkyMiningWorld
+version: ${project.version}
+main: com.skyland.skymining.Main
